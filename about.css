@@ -175,7 +175,7 @@ header nav a:hover {
     background: white;
     font-size: 16px;
     border-radius: 5px;
-    border: 1px solid black;
+    border: 3px solid black;
 }
 
 .about-content .card button:hover {
@@ -192,12 +192,11 @@ header nav a:hover {
 }
 
 .about-content .about-together .together {
-  width: 400px;
   display: inline;
   margin: 0 60px 20px 0;
 }
 
-.about-content .about-info .together p {
+.about-content .about-together .together p {
   margin-bottom: 20px;
 }
 
@@ -259,3 +258,4 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
